@@ -1,4 +1,4 @@
 # StockTicker_Issues
 Place to report issues with the Stock Ticker device
 
-Please report issues including assets that you'd like to add that are not working.
+Utilize this repo to ask questions, request assets, request features or report bugs using the provided tags.
